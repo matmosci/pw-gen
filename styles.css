@@ -1,0 +1,91 @@
+#generateBtn {
+    width: 100%;
+    height: 24px;
+    margin-bottom: 4px;
+    color: #ffffff;
+    background-color: #ff5800;
+}
+
+.output {
+    display: flex;
+}
+
+#outputField {
+    width: 80%;
+    outline: none;
+    background-color: #ffffff;
+}
+
+#copyBtn {
+    width: 20%;
+    background-color: #ff5800;
+    display: flex;
+}
+
+button,
+input {
+    border: none;
+}
+
+/* body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #ff5800;
+    color: white;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+  }
+  
+  button:hover {
+    transform: scale(1.05);
+  }
+  
+  .output {
+    margin-top: 20px;
+    width: 200px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+  }
+  
+  input[type="text"] {
+    font-size: 1.2em;
+    padding: 10px;
+    border: none;
+    border-bottom: 2px solid #ff5800;
+    margin-right: 20px;
+    flex-grow: 1;
+  }
+  
+  input[type="text"]:focus {
+    outline: none;
+  }
+  
+  #copyBtn {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    margin-left: 10px;
+  }
+  
+  #copyBtn:hover {
+    transform: scale(1.2);
+  }
+   */
